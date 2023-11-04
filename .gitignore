@@ -1,0 +1,8 @@
+docs/_build/
+!/GeneratorScripts/**
+gitui
+*.TODO
+.modules/generatedocs/api/**
+.modules/generatedocs/doxygen_docs/**
+.penv/**
+Coverage/
