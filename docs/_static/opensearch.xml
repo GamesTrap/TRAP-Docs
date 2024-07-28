@@ -4,8 +4,8 @@
   <Description>Search TRAP  documentation</Description>
   <InputEncoding>utf-8</InputEncoding>
   <Url type="text/html" method="get"
-       template="https://gamestrap.github.io/TRAP//search.html?q={searchTerms}"/>
+       template="https://gamestrap.github.io/TRAP-Docs//search.html?q={searchTerms}"/>
   <LongName>TRAP  documentation</LongName>
-  <Image height="16" width="16" type="image/x-icon">https://gamestrap.github.io/TRAP//_static/TRAPWhiteLogo64x64.ico</Image>
+  <Image height="16" width="16" type="image/x-icon">https://gamestrap.github.io/TRAP-Docs//_static/TRAPWhiteLogo64x64.ico</Image>
   
 </OpenSearchDescription>
